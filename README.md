@@ -16,7 +16,7 @@ Pan-genome Analysis → Essential Gene Identification → Non-human Homology Fil
 - 7 high-affinity ligands identified
 - 2 promising lead compounds
 
-## 📈 Selected Visualizations
+## 📈 Visualizations
 <p align="center">
   <img src="images/pangenome_pie.png" width="60%">
 </p>
@@ -27,5 +27,5 @@ Pan-genome Analysis → Essential Gene Identification → Non-human Homology Fil
   <img src="images/3d_structure of protein.png" width="60%">
 </p>
 <p align="center">
-  <img src="images/rmsd.png" width="60%">
+  <img src="images/rmsd.jpeg" width="60%">
 </p>
