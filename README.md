@@ -8,6 +8,8 @@ To identify novel drug targets and potential small-molecule inhibitors against m
 
 ## 🛠️ Methodology
 Pan-genome Analysis → Essential Gene Identification → Non-human Homology Filtering → DrugBank Screening → Structure Prediction → Molecular Dynamics Simulation → Virtual Screening → MM/GBSA Refinement
+⚙️ Computational Implementation
+A semi-automated Python-based workflow was developed to extract core genes (≥95% presence), retrieve nucleotide and protein sequences, and integrate DEG screening results. Automation minimized manual bias and enabled efficient large-scale analysis of 194 genomes.
 
 ## 📊 Key Results
 - 1,566 core genes identified
