@@ -1,0 +1,15 @@
+## Subtractive Proteomics: Identification of host non-homologous proteins
+
+
+Essential proteins were screened against the Homo sapiens proteome using NCBI BLASTp.
+
+Human proteome source:
+- UniProt database
+
+Thresholds:
+- Bit score ≤ 100
+- E-value < 1e-4
+- Query coverage ≤ 35%
+- Identity ≤ 35%
+
+Proteins without significant similarity were retained as non-human homologs.
