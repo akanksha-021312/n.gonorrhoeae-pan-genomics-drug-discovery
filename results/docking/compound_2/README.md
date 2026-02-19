@@ -1,6 +1,6 @@
-## Compound 1 – Docking Result
+## Compound 2 – Docking Result
 
-This folder contains the docking results of **Compound 1: D02ICI** against the predicted therapeutic target protein of *Neisseria gonorrhoeae*.
+This folder contains the docking results of **Compound 2: D02ICI** against the predicted therapeutic target protein of *Neisseria gonorrhoeae*.
 
 ### Files
 
